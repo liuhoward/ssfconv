@@ -142,3 +142,6 @@ zip				未加密的ssf皮肤（zip）
 
 该项目的思路，以及解密的过程和密钥，完全参考了 [VOID001/ssf2fcitx](VOID001/ssf2fcitx) 在此表示感谢！
 
+附已经转好的 [远山白极简皮肤](https://pinyin.sogou.com/skins/detail/view/info/611385?rf=cate_31_sign&tf=p):
+https://github.com/liuhoward/ssfconv/releases/download/v1.0/yuanshanbai2020.tar.gz
+
